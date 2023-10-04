@@ -1,0 +1,34 @@
+-----------------------------|CutScenki
+cs_name|piraci0
+-----------------------------|Game - miotly
+miotly_odwiedzony|false
+miotly_level|0
+miotly_ukonczone|xnnnnnnnnnnnn
+-----------------------------|Game - bdash
+bdash_odwiedzony|false
+bdash_level|0
+bdash_ukonczone|nnnnnnnnnnnnnnnnnnn
+bdash_game_type|
+editor_slot_no|0
+-----------------------------|Game - piraci
+piraci_odwiedzony|false
+piraci_level|0
+piraci_ukonczone|nnnnnn
+-----------------------------|Game - rtype
+rtype_odwiedzony|false
+rtype_level|1
+rtype_ukonczone|xnnnnnnnnnnnn
+rtype_zycia|3
+rtype_oslona|0
+rtype_moc_ognia|0
+rtype_rakieta|0
+-----------------------------|Game - labirynty
+labirynty_odwiedzony|false
+labirynty_level|1
+labirynty_ukonczone|xnnnnnnn
+-----------------------------|Games - other
+info_pira|
+info_rtyp|
+info_miot|
+info_labi|
+info_bdas|
