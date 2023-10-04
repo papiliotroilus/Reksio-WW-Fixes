@@ -1,7 +1,9 @@
 # Reksio-WW-Fixes
- Ending mod compatibility fix and Romanian translation for the RiKwA Wild West mod
+ OutroMod mod compatibility fix and Romanian translation for the RiKwA Wild West mod
 
- Repo includes both the Romanian translation with the ending mod included and a standalone ending mod compatibility fix for the Polish version
+ Relevant mods are the Wild West mod by Daria and the OutroMod by Roostar, both for Reksio i Kretes w Akcji/Reksio și Kretes în Acțiune
+
+ Repo includes both the Romanian translation of the Wild West mod with the OutroMod included and a standalone ending mod compatibility fix for the Polish version
 
  To install, simply copy-paste the desired modification into the game's directory
  
